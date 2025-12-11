@@ -126,8 +126,8 @@ A Power BI dashboard was built to visualize:
 
 ### 📸 Dashboard Preview
   
-![dashboard1](amazon_sales_datacleaning_project/images/amazon_dashboard1.png)
-![dashboard2](amazon_sales_datacleaning_project/images/amazon_dashboard2.png)
+![dashboard1](amazon_sales_datacleaning_project/images/Amazon_dashboard1.png)
+![dashboard2](amazon_sales_datacleaning_project/images/Amazon_dashboard2.png)
 
 ---
 
