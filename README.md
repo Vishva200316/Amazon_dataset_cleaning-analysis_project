@@ -65,10 +65,10 @@ Created a new `brand` column using pattern matching from the product title.
 Exported a structured dataset used for EDA and visualization.
 
 ### 📸 Raw Dataset
-![Raw Dataset](images/amazon_raw_dataset.png)
+![Raw Dataset](amazon_sales_datacleaning_project/images/amazon_raw_dataset.png)
 
 ### 📸 Cleaned Dataset
-![Cleaned Dataset](images/amazon_cleaned_dataset.png)
+![Cleaned Dataset](amazon_sales_datacleaning_project/images/amazon_cleaned_dataset.png)
 
 ---
 
@@ -126,8 +126,8 @@ A Power BI dashboard was built to visualize:
 
 ### 📸 Dashboard Preview
   
-![dashboard1](images/amazon_dashboard1.png)
-![dashboard2](images/amazon_dashboard2.png)
+![dashboard1](amazon_sales_datacleaning_project/images/amazon_dashboard1.png)
+![dashboard2](amazon_sales_datacleaning_project/images/amazon_dashboard2.png)
 
 ---
 
