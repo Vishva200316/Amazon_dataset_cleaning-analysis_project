@@ -78,32 +78,32 @@ EDA was performed to answer key business questions.
 
 ### ✔ Questions Explored
 
-#### 📌 **1. Which products/brands have highest ratings?**
+####  **1. Which products/brands have highest ratings?**
 Used `MAX()` and filtering.
 
-#### 📌 **1. Revenue estimation**
+####  **1. Revenue estimation**
 `Revenue = units_sold * price`  
 Used `COALESCE()` to handle multiple price fields.
 
-#### 📌 **3. Sponsored vs Non-Sponsored performance**
+####  **3. Sponsored vs Non-Sponsored performance**
 Analyzed:
 - average units sold  
 - count of sponsored products  
 - best seller distribution  
 
-#### 📌 **4. Stock availability**
+####  **4. Stock availability**
 Compared in-stock vs out-of-stock counts by brand.
 
-#### 📌 **5. Delivery speed**
+####  **5. Delivery speed**
 Calculated average delivery days:
 ```
 DATEDIFF(delivery_date, collected_at)
 ```
 
-#### 📌 **6. Ratings vs Sales**
+####  **6. Ratings vs Sales**
 Grouped by rating to observe selling patterns.
 
-#### 📌 **7. Price Range Analysis**
+####  **7. Price Range Analysis**
 Classified products into:
 - low price  
 - medium  
@@ -133,12 +133,12 @@ A Power BI dashboard was built to visualize:
 
 # 5️⃣ **Key Insights**
 
-- ⭐ **Amazon Basics** and **Apple** products appear frequently  
-- 📦 Products with moderate prices tend to have better unit sales  
-- 💰 Sponsored listings do not always guarantee higher sales  
-- 📉 Some brands have higher out-of-stock occurrences  
-- 🚚 Delivery time varies significantly across brands  
-- 📊 Ratings show a weak correlation with units sold  
+-  **Amazon Basics** and **Apple** products appear frequently  
+-  Products with moderate prices tend to have better unit sales  
+-  Sponsored listings do not always guarantee higher sales  
+-  Some brands have higher out-of-stock occurrences  
+-  Delivery time varies significantly across brands  
+-  Ratings show a weak correlation with units sold  
 
 ---
 
